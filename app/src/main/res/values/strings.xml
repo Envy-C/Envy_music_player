@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleMusicPlayer</string>
+    <string name="now_playing_text">در حال پخش ...</string>
+
+</resources>
